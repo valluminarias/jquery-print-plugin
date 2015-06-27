@@ -2,7 +2,7 @@
 JQuery plugin for printing
 # How to use
 just add a block of jquery code in your app
-```jquery
+```javascript
 $(document).ready(function() {
   $('element').printThis();
 });
